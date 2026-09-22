@@ -399,6 +399,16 @@ PrepForge is currently under active development.
 - [ ] Testing
 - [ ] Release build
 
+## 📄 License
+
+This project is proprietary and all rights are reserved by **Yash Gupta**.
+
+The source code is available for educational and evaluation purposes only.
+Reuse, redistribution, modification, or commercial use requires prior
+permission.
+
+See the [LICENSE](LICENSE) file for details.
+
 ## 👨‍💻 Developer
 
 **Yash Gupta**
