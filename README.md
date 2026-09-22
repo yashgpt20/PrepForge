@@ -406,7 +406,7 @@ PrepForge is currently under active development.
 Android Developer | Java Backend Developer
 
 - GitHub: [@yashgpt20](https://github.com/yashgpt20)
-- LinkedIn: [Yash Gupta](YOUR_LINKEDIN_URL)
+- LinkedIn: [Yash Gupta](https://linkedin.com/in/yashgpt)
 
 ### Development Profile
 
